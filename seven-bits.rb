@@ -15,6 +15,12 @@ end
 
 encode_script('test.rb', 'example.binary')
 
+# example script 1:
 # approx before size: 513
 # approx after  size: 566
+
+# example script 2:
+# approx before size: 13166
+# approx after  size: 11638
+
 # saves right at 12% with scripts of sufficient size, ie > 5000 bytes
